@@ -16,11 +16,11 @@ public class Main {
 		System.out.println("supercoder probably broke the enet");
 	}
 	
-	public void preInit(FMLInitializationEvent event){
+	public void init(FMLInitializationEvent event){
 		System.out.println("e99999 is being a lazy bum");
 	}
 	
-	public void preInit(FMLPostInitializationEvent event){
+	public void postInit(FMLPostInitializationEvent event){
 		System.out.println("greg still hasn't made a blast furnace yet");
 	}
 }
