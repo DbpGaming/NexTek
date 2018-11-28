@@ -74,3 +74,5 @@ eclipse/
 
 # log
 *.log
+
+run/
